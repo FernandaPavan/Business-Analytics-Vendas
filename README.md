@@ -1,6 +1,6 @@
 ## **Análise de Dados em Rede de Lojas de Venda de Açaí**
 
-Neste projeto, exploraremos uma base de dados com 70.000 linhas de uma rede de lojas de açaí. Vamos investigar padrões, tendências e insights relevantes para o negócio. 
+Neste projeto, exploraremos uma base de dados com 70.000 registros de uma rede de lojas de açaí. Vamos investigar padrões, tendências e insights relevantes para o negócio. 
 <br>
 <br>
 
